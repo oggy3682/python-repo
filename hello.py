@@ -1,1 +1,1 @@
-print("oggy is a good boy      gggh")
+print("oggy is a good boy   ggh")
